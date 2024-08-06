@@ -52,6 +52,3 @@ Extension chrome
 3. Find "Elegant Cursor" in the list of installed extensions.
 4. Click "Remove" and confirm the action in the dialog that appears.
 
-## Support
-
-For additional support, to report bugs, or to request new features, you can contact the developer through the support page on the Chrome Web Store or email [support@elegantcursor.com](mailto:support@elegantcursor.com).
